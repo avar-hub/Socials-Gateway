@@ -13,6 +13,7 @@ public class RouteValidator {
 
             "auth/register",
             "auth/getToken",
+            "auth/verify-account",
             "eureka"
     );
 
