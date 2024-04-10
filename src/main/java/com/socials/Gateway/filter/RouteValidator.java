@@ -16,6 +16,7 @@ public class RouteValidator {
             "auth/verify-account",
             "/auth/forgotPass",
             "/auth/resetPass",
+            "/auth/refreshToken",
             "eureka"
     );
 
